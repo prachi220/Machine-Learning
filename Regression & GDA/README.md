@@ -1,1 +1,1 @@
-This project involves implementation of Linear Regression, Logistic Regression and Gaussian Discriminant Analysis. Details of problem statement mentioned in Assignment_1.pdf. Details of implementation mentioned in Report-1.pdf.
+This project involves implementation of Linear Regression, Logistic Regression and Gaussian Discriminant Analysis. Details of problem statement mentioned in Assignment_1.pdf. Details of implementation mentioned in Report-1.pdf. Dataset for training given in Assignment_1_datasets folder.
