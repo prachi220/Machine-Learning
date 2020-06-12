@@ -1,0 +1,1 @@
+This project involves implementation of KMeans Clustering algorithm for recognizing human activities and postural transitions (based on attributes collected through a smartphone) and Principal Component Analysis algorithm for face recognition.
